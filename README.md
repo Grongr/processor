@@ -40,4 +40,4 @@ Or with only one script `run.sh filename.sht`.
 
 And now, lets code!
 
-![](/home/grongr/learning/mipt/informatics/3sem/ded/processor/img/cat_coding.jpeg)
+![](./img/cat_coding.jpeg)
