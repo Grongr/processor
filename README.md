@@ -38,6 +38,6 @@ And after that you can run programs you need to run with commands:
 
 Or with only one script `run.sh filename.sht`.
 
-And now, lets code!
+And now, let's code!
 
 ![](./img/cat_coding.jpeg)

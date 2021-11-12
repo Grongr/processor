@@ -41,7 +41,7 @@ const char* log_file = "./log.txt";
 /*****************************************************************/
 Errors StackCtor(Stack* stk, size_t element_size, size_t cap) {
 
-    if (stk->capacity > 0 || stk->type == NULL)
+    if (stk->type == NULL)
         return CTOR_ERROR;
 
     stk->capacity     = (cap <= 4) ? 4 : cap;
